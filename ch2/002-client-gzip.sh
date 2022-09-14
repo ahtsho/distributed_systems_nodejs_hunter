@@ -1,0 +1,1 @@
+curl -H 'Accept-Encoding:gzip'  http://localhost:1337/ | gunzip
